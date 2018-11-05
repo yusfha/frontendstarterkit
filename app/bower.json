@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "authors": [
+    "Yusuf Hari P <yusufhari25@gmail.com>"
+  ],
+  "description": "package for the app",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
